@@ -1,4 +1,4 @@
-# arithmetic-formatter-
+# 🧮 Saimon's Arithmetic Formatter
 A Python program that formats arithmetic problems vertically and side-by-side, mimicking the way they're written in elementary school.
 
 ---
@@ -23,4 +23,4 @@ from main import arithmetic_arranger
 
 print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))
 
-[main.py](https://github.com/Saimon-ui/arithmetic-formatter/blob/main/main.py)
+
