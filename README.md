@@ -22,3 +22,5 @@ A Python program that formats arithmetic problems vertically and side-by-side, m
 from main import arithmetic_arranger
 
 print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))
+
+📂 **Source Code:** [main.py](main.py)
