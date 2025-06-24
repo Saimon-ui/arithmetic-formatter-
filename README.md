@@ -23,4 +23,4 @@ from main import arithmetic_arranger
 
 print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))
 
-📂 **Source Code:** [main.py](main.py)
+📂 Source Code:[main.py](main.py)
